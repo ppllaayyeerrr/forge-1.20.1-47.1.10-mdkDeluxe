@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mccascade:block/flaxen_slab"
+    },
+    "type=double": {
+      "model": "mccascade:block/flaxen_planks"
+    },
+    "type=top": {
+      "model": "mccascade:block/flaxen_slab_top"
+    }
+  }
+}

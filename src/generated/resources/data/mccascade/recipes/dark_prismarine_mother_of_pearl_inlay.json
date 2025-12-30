@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "p": {
+      "item": "minecraft:dark_prismarine"
+    }
+  },
+  "pattern": [
+    "ppp",
+    "p#p",
+    "ppp"
+  ],
+  "result": {
+    "count": 8,
+    "item": "mccascade:dark_prismarine_mother_of_pearl_inlay"
+  },
+  "show_notification": true
+}

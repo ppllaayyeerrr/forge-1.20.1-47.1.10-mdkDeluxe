@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:shulker_shell"
+    },
+    "e": {
+      "item": "minecraft:end_stone_bricks"
+    }
+  },
+  "pattern": [
+    "eee",
+    "e#e",
+    "eee"
+  ],
+  "result": {
+    "count": 8,
+    "item": "mccascade:shulker_shell_inlay"
+  },
+  "show_notification": true
+}

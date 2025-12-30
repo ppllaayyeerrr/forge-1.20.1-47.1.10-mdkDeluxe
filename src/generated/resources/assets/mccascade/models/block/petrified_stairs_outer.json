@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "mccascade:block/petrified_planks",
+    "side": "mccascade:block/petrified_planks",
+    "top": "mccascade:block/petrified_planks"
+  }
+}

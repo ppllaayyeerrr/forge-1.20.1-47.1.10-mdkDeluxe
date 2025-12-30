@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "mccascade:block/dark_prismarine_mother_of_pearl_inlay",
+    "side": "mccascade:block/dark_prismarine_mother_of_pearl_inlay",
+    "top": "mccascade:block/dark_prismarine_mother_of_pearl_inlay"
+  }
+}

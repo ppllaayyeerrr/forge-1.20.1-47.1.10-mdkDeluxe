@@ -1,0 +1,63 @@
+{
+  "item.mccascade.jade": "Jade",
+  "item.mccascade.lotus_stem": "Lotus Stem",
+  "block.mccascade.mosaic_tiles": "Mosaic Tiles",
+  "block.mccascade.cold_mosaic_tiles": "Cold Mosaic Tiles",
+  "block.mccascade.warm_mosaic_tiles": "Warm Mosaic Tiles",
+  "block.mccascade.block_of_jade": "Block of Jade",
+  "block.mccascade.jade_ore": "Jade Ore",
+  "block.mccascade.deepslate_jade_ore": "Deepslate Jade Ore",
+
+  "block.mccascade.dark_prismarine_mother_of_pearl_inlay": "Dark Prismarine Mother of Pearl Inlay",
+  "block.mccascade.dark_prismarine_mother_of_pearl_inlay_stairs": "Dark Prismarine Mother of Pearl Inlay Stairs",
+  "block.mccascade.dark_prismarine_mother_of_pearl_inlay_slab": "Dark Prismarine Mother of Pearl Inlay Slab",
+
+  "block.mccascade.shulker_shell_inlay": "Shulker Shell Inlay",
+  "block.mccascade.shulker_shell_inlay_stairs": "Shulker Shell Inlay Stairs",
+  "block.mccascade.shulker_shell_inlay_slab": "Shulker Shell Inlay Slab",
+
+  "block.mccascade.mixed_cobblestone": "Mixed Cobblestone",
+  "block.mccascade.mixed_cobblestone_stairs": "Mixed Cobblestone Stairs",
+  "block.mccascade.mixed_cobblestone_slab": "Mixed Cobblestone Slab",
+  "block.mccascade.mixed_cobblestone_wall": "Mixed Cobblestone Wall",
+
+  "block.mccascade.polished_glowstone": "Polished Glowstone",
+  "block.mccascade.gilded_blackstone_bricks": "Gilded Blackstone Bricks",
+  "block.mccascade.gilded_blackstone_brick_stairs": "Gilded Blackstone Brick Stairs",
+  "block.mccascade.gilded_blackstone_brick_slab": "Gilded Blackstone Brick Slab",
+  "block.mccascade.chiseled_gilded_blackstone": "Chiseled Gilded Blackstone",
+
+
+  "block.mccascade.daffodil": "Daffodil",
+  "block.mccascade.columbine": "Columbine",
+  "block.mccascade.zinnia": "Zinnia",
+  "block.mccascade.umbral_orchid": "Umbral Orchid",
+  "block.mccascade.white_clover": "White Clover",
+
+
+  "block.mccascade.petrified_planks": "Petrified Planks",
+  "block.mccascade.petrified_fence": "Petrified Fence",
+  "block.mccascade.petrified_fence_gate": "Petrified Fence Gate",
+  "block.mccascade.petrified_wall": "Petrified Wall",
+  "block.mccascade.petrified_stairs": "Petrified Stairs",
+  "block.mccascade.petrified_slab": "Petrified Slab",
+
+
+  "block.mccascade.walnut_planks": "Walnut Planks",
+  "block.mccascade.walnut_fence": "Walnut Fence",
+  "block.mccascade.walnut_fence_gate": "Walnut Fence Gate",
+  "block.mccascade.walnut_stairs": "Walnut Stairs",
+  "block.mccascade.walnut_slab": "Walnut Slab",
+
+  "block.mccascade.flaxen_planks": "Flaxen Planks",
+  "block.mccascade.flaxen_fence": "Flaxen Fence",
+  "block.mccascade.flaxen_fence_gate": "Flaxen Fence Gate",
+  "block.mccascade.flaxen_stairs": "Flaxen Stairs",
+  "block.mccascade.flaxen_slab": "Flaxen Slab",
+  "block.mccascade.flaxen_door": "Flaxen Door",
+  "block.mccascade.flaxen_trapdoor": "Flaxen Trapdoor",
+  "block.mccascade.flaxen_button": "Flaxen Button",
+  "block.mccascade.flaxen_pressure_plate": "Flaxen Pressure Plate",
+
+  "creativetab.cascade_tab": "Cascade"
+}

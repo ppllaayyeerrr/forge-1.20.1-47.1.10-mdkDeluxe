@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:orange_dye"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_zinnia": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mccascade:zinnia"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_zinnia",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:orange_dye"
+    ]
+  },
+  "sends_telemetry_event": false
+}

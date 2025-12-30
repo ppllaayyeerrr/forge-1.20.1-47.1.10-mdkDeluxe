@@ -1,0 +1,30 @@
+{
+  "values": [
+    "mccascade:jade_ore",
+    "mccascade:block_of_jade",
+    "mccascade:deepslate_jade_ore",
+    "mccascade:petrified_planks",
+    "mccascade:petrified_stairs",
+    "mccascade:petrified_slab",
+    "mccascade:petrified_wall",
+    "mccascade:petrified_fence",
+    "mccascade:petrified_fence_gate",
+    "mccascade:mosaic_tiles",
+    "mccascade:warm_mosaic_tiles",
+    "mccascade:cold_mosaic_tiles",
+    "mccascade:mixed_cobblestone",
+    "mccascade:mixed_cobblestone_stairs",
+    "mccascade:mixed_cobblestone_slab",
+    "mccascade:mixed_cobblestone_wall",
+    "mccascade:gilded_blackstone_bricks",
+    "mccascade:gilded_blackstone_brick_stairs",
+    "mccascade:gilded_blackstone_brick_slab",
+    "mccascade:chiseled_gilded_blackstone",
+    "mccascade:dark_prismarine_mother_of_pearl_inlay",
+    "mccascade:dark_prismarine_mother_of_pearl_inlay_stairs",
+    "mccascade:dark_prismarine_mother_of_pearl_inlay_slab",
+    "mccascade:shulker_shell_inlay",
+    "mccascade:shulker_shell_inlay_stairs",
+    "mccascade:shulker_shell_inlay_slab"
+  ]
+}

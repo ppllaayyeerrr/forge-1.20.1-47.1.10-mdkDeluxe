@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "mccascade:block/shulker_shell_inlay",
+    "side": "mccascade:block/shulker_shell_inlay",
+    "top": "mccascade:block/shulker_shell_inlay"
+  }
+}

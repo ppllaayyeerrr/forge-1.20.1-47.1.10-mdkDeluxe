@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mccascade:block/walnut_slab"
+    },
+    "type=double": {
+      "model": "mccascade:block/walnut_planks"
+    },
+    "type=top": {
+      "model": "mccascade:block/walnut_slab_top"
+    }
+  }
+}

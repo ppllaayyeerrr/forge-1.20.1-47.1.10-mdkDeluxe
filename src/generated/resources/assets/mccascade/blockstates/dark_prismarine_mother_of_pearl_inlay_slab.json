@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mccascade:block/dark_prismarine_mother_of_pearl_inlay_slab"
+    },
+    "type=double": {
+      "model": "mccascade:block/dark_prismarine_mother_of_pearl_inlay"
+    },
+    "type=top": {
+      "model": "mccascade:block/dark_prismarine_mother_of_pearl_inlay_slab_top"
+    }
+  }
+}

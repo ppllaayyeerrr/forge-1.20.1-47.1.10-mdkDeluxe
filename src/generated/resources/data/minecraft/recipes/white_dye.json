@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mccascade:white_clover"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_dye"
+  }
+}

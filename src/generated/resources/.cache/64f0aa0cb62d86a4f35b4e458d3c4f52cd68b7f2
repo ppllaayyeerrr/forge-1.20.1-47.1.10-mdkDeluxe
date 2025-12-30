@@ -1,0 +1,11 @@
+// 1.20.1	2025-12-30T01:50:11.1228452	Tags for minecraft:block mod id mccascade
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+c707fe141dedffe0a91a4bb2fae8606b1562db2f data/minecraft/tags/blocks/buttons.json
+a617add09ad7adc555359b7113bd2b33c8e426e9 data/minecraft/tags/blocks/fences.json
+31d97fbe0fe47ae35cc72d7049d6cf838bb56191 data/minecraft/tags/blocks/fence_gates.json
+f54b2fd833eb0d0735127ed99ec162f263d0a5ee data/minecraft/tags/blocks/mineable/axe.json
+24b15092f0b47c9a87316c0d36f5d66f08da5e82 data/minecraft/tags/blocks/mineable/pickaxe.json
+3f5ba5d4f37b7064b16eed0d39691975f397028d data/minecraft/tags/blocks/needs_iron_tool.json
+cdcecd2ab6b7a3d413cbca1685cbaa05992776fe data/minecraft/tags/blocks/needs_stone_tool.json
+dddb25a0ef41b1c443cf389911bbc46b1a926f49 data/minecraft/tags/blocks/planks.json
+fa1c68b91f45b0f6dbf89e218c11f41eb74164b8 data/minecraft/tags/blocks/walls.json

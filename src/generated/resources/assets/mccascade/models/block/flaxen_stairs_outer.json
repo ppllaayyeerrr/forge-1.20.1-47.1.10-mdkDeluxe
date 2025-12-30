@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "mccascade:block/flaxen_planks",
+    "side": "mccascade:block/flaxen_planks",
+    "top": "mccascade:block/flaxen_planks"
+  }
+}
