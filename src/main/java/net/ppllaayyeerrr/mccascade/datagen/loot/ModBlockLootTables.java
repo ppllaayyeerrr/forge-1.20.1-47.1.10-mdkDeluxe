@@ -40,6 +40,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_STAIRS.get());
         this.add(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_SLAB.get(),
                 block -> createSlabItemTable(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_SLAB.get()));
+        this.dropSelf(ModBlocks.CHISELED_DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY.get());
 
         this.dropSelf(ModBlocks.SHULKER_SHELL_INLAY.get());
         this.dropSelf(ModBlocks.SHULKER_SHELL_INLAY_STAIRS.get());

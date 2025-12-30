@@ -23,8 +23,10 @@
     "mccascade:dark_prismarine_mother_of_pearl_inlay",
     "mccascade:dark_prismarine_mother_of_pearl_inlay_stairs",
     "mccascade:dark_prismarine_mother_of_pearl_inlay_slab",
+    "mccascade:chiseled_dark_prismarine_mother_of_pearl_inlay",
     "mccascade:shulker_shell_inlay",
     "mccascade:shulker_shell_inlay_stairs",
-    "mccascade:shulker_shell_inlay_slab"
+    "mccascade:shulker_shell_inlay_slab",
+    "mccascade:chiseled_shulker_shell_inlay"
   ]
 }

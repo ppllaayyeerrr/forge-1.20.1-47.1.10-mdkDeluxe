@@ -49,6 +49,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                     ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY.get(),
                     ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_STAIRS.get(),
                     ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_SLAB.get(),
+                    ModBlocks.CHISELED_DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY.get(),
 
                     ModBlocks.SHULKER_SHELL_INLAY.get(),
                     ModBlocks.SHULKER_SHELL_INLAY_STAIRS.get(),

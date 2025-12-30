@@ -1,6 +1,8 @@
-// 1.20.1	2025-12-30T01:50:11.1289608	Loot Tables
+// 1.20.1	2025-12-30T15:03:23.8205909	Loot Tables
 975b0dcbcdf49a0bfd15a357ded5021dc4ead40a data/mccascade/loot_tables/blocks/block_of_jade.json
+f17b4a405db38caf323ddd82adce3e9c921a7bcf data/mccascade/loot_tables/blocks/chiseled_dark_prismarine_mother_of_pearl_inlay.json
 1a387d0a7fb3611bd6b1d27221b69aedf9f0c981 data/mccascade/loot_tables/blocks/chiseled_gilded_blackstone.json
+64208deb8c73c254fc1bd18ec6cabd49d8cfab2e data/mccascade/loot_tables/blocks/chiseled_shulker_shell_inlay.json
 57a2fbf50fc8cd6f8667265c38e8aa944a31818a data/mccascade/loot_tables/blocks/cold_mosaic_tiles.json
 6176deec40b3aadaa488dda286406e39594d33ee data/mccascade/loot_tables/blocks/columbine.json
 c10016e8c195179cac6e8eb168f1895ba0ad737d data/mccascade/loot_tables/blocks/daffodil.json

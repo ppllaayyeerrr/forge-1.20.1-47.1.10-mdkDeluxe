@@ -32,6 +32,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY);
         stairsBlock(((StairBlock) ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_STAIRS.get()), blockTexture(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY.get()));
         slabBlock(((SlabBlock) ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_SLAB.get()), blockTexture(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY.get()), blockTexture(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY.get()));
+        blockWithItem(ModBlocks.CHISELED_DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY);
 
         blockWithItem(ModBlocks.SHULKER_SHELL_INLAY);
         stairsBlock(((StairBlock) ModBlocks.SHULKER_SHELL_INLAY_STAIRS.get()), blockTexture(ModBlocks.SHULKER_SHELL_INLAY.get()));

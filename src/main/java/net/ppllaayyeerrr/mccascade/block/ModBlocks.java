@@ -50,6 +50,8 @@ public class ModBlocks {
                     BlockBehaviour.Properties.copy(Blocks.DARK_PRISMARINE)));
     public static final RegistryObject<Block> DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_SLAB = registerBlock("dark_prismarine_mother_of_pearl_inlay_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.DARK_PRISMARINE)));
+    public static final RegistryObject<Block> CHISELED_DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY = registerBlock("chiseled_dark_prismarine_mother_of_pearl_inlay",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.PRISMARINE)));
 
     public static final RegistryObject<Block> SHULKER_SHELL_INLAY = registerBlock("shulker_shell_inlay",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.END_STONE_BRICKS)));
