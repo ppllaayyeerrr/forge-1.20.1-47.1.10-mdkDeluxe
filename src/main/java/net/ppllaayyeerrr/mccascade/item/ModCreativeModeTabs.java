@@ -32,6 +32,7 @@ public static final RegistryObject<CreativeModeTab> CASCADE_TAB = CREATIVE_MODE_
                     output.accept(ModBlocks.DARK_PRISMARINE_MOTHER_OF_PEARL_INLAY_SLAB.get());
 
                     output.accept(ModBlocks.SHULKER_SHELL_INLAY.get());
+                    output.accept(ModBlocks.CHISELED_SHULKER_SHELL_INLAY.get());
                     output.accept(ModBlocks.SHULKER_SHELL_INLAY_STAIRS.get());
                     output.accept(ModBlocks.SHULKER_SHELL_INLAY_SLAB.get());
 

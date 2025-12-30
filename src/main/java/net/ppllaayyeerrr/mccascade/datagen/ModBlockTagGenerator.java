@@ -52,7 +52,8 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
 
                     ModBlocks.SHULKER_SHELL_INLAY.get(),
                     ModBlocks.SHULKER_SHELL_INLAY_STAIRS.get(),
-                    ModBlocks.SHULKER_SHELL_INLAY_SLAB.get()
+                    ModBlocks.SHULKER_SHELL_INLAY_SLAB.get(),
+                    ModBlocks.CHISELED_SHULKER_SHELL_INLAY.get()
                 );
 
 

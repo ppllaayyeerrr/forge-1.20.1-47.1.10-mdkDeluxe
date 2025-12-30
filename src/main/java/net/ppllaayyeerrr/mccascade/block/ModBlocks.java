@@ -39,7 +39,6 @@ public class ModBlocks {
     public static final RegistryObject<Block> JADE_ORE = registerBlock("jade_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.LAPIS_ORE)
                     .requiresCorrectToolForDrops(), UniformInt.of(3,5)));
-
     public static final RegistryObject<Block> DEEPSLATE_JADE_ORE = registerBlock("deepslate_jade_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_LAPIS_ORE)
                     .requiresCorrectToolForDrops(), UniformInt.of(3,5)));
@@ -59,6 +58,8 @@ public class ModBlocks {
                     BlockBehaviour.Properties.copy(Blocks.END_STONE_BRICKS)));
     public static final RegistryObject<Block> SHULKER_SHELL_INLAY_SLAB = registerBlock("shulker_shell_inlay_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.END_STONE_BRICKS)));
+    public static final RegistryObject<Block> CHISELED_SHULKER_SHELL_INLAY = registerBlock("chiseled_shulker_shell_inlay",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.END_STONE_BRICKS)));
 
     public static final RegistryObject<Block> GILDED_BLACKSTONE_BRICKS = registerBlock("gilded_blackstone_bricks",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.POLISHED_BLACKSTONE_BRICKS)));

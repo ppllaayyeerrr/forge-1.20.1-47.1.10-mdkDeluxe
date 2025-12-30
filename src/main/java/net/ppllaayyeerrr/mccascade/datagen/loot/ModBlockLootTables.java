@@ -45,6 +45,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.SHULKER_SHELL_INLAY_STAIRS.get());
         this.add(ModBlocks.SHULKER_SHELL_INLAY_SLAB.get(),
                 block -> createSlabItemTable(ModBlocks.SHULKER_SHELL_INLAY_SLAB.get()));
+        this.dropSelf(ModBlocks.CHISELED_SHULKER_SHELL_INLAY.get());
 
         this.dropSelf(ModBlocks.GILDED_BLACKSTONE_BRICKS.get());
         this.dropSelf(ModBlocks.GILDED_BLACKSTONE_BRICK_STAIRS.get());

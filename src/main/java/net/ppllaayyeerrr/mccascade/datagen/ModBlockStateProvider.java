@@ -36,6 +36,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.SHULKER_SHELL_INLAY);
         stairsBlock(((StairBlock) ModBlocks.SHULKER_SHELL_INLAY_STAIRS.get()), blockTexture(ModBlocks.SHULKER_SHELL_INLAY.get()));
         slabBlock(((SlabBlock) ModBlocks.SHULKER_SHELL_INLAY_SLAB.get()), blockTexture(ModBlocks.SHULKER_SHELL_INLAY.get()), blockTexture(ModBlocks.SHULKER_SHELL_INLAY.get()));
+        blockWithItem(ModBlocks.CHISELED_SHULKER_SHELL_INLAY);
 
         blockWithItem(ModBlocks.POLISHED_GLOWSTONE);
 
