@@ -138,7 +138,7 @@ public class ModBlocks {
             () -> new TrapDoorBlock(BlockBehaviour.Properties.copy(Blocks.CHERRY_PLANKS).noOcclusion(), BlockSetType.CHERRY));
     public static final RegistryObject<Block> FLAXEN_BUTTON = registerBlock("flaxen_button",
             () -> new ButtonBlock(BlockBehaviour.Properties.copy(Blocks.CHERRY_BUTTON),
-                    BlockSetType.CHERRY, 15, true));
+                    BlockSetType.CHERRY, 30, true));
     public static final RegistryObject<Block> FLAXEN_PRESSURE_PLATE = registerBlock("flaxen_pressure_plate",
             () -> new PressurePlateBlock(PressurePlateBlock.Sensitivity.EVERYTHING, BlockBehaviour.Properties.copy(Blocks.CHERRY_PRESSURE_PLATE),
                     BlockSetType.CHERRY));
