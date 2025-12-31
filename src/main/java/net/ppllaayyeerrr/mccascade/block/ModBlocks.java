@@ -114,6 +114,10 @@ public class ModBlocks {
                     BlockBehaviour.Properties.copy(Blocks.DARK_OAK_PLANKS)));
     public static final RegistryObject<Block> WALNUT_SLAB = registerBlock("walnut_slab",
             () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.DARK_OAK_PLANKS)));
+    public static final RegistryObject<Block> WALNUT_DOOR = registerBlock("walnut_door",
+            () -> new DoorBlock(BlockBehaviour.Properties.copy(Blocks.DARK_OAK_PLANKS).noOcclusion(), BlockSetType.DARK_OAK));
+    public static final RegistryObject<Block> WALNUT_TRAPDOOR = registerBlock("walnut_trapdoor",
+            () -> new TrapDoorBlock(BlockBehaviour.Properties.copy(Blocks.DARK_OAK_PLANKS).noOcclusion(), BlockSetType.DARK_OAK));
 
     //public static final RegistryObject<Block> FLAXEN_LOG = registerBlock("flaxen_log",
     //        () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.CHERRY_LOG)));
@@ -138,6 +142,7 @@ public class ModBlocks {
     public static final RegistryObject<Block> FLAXEN_PRESSURE_PLATE = registerBlock("flaxen_pressure_plate",
             () -> new PressurePlateBlock(PressurePlateBlock.Sensitivity.EVERYTHING, BlockBehaviour.Properties.copy(Blocks.CHERRY_PRESSURE_PLATE),
                     BlockSetType.CHERRY));
+
 
 
 

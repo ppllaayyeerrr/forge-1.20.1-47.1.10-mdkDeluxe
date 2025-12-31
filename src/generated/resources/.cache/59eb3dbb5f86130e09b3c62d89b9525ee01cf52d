@@ -1,4 +1,4 @@
-// 1.20.1	2025-12-30T15:03:23.8205909	Loot Tables
+// 1.20.1	2025-12-30T18:11:12.3391522	Loot Tables
 975b0dcbcdf49a0bfd15a357ded5021dc4ead40a data/mccascade/loot_tables/blocks/block_of_jade.json
 f17b4a405db38caf323ddd82adce3e9c921a7bcf data/mccascade/loot_tables/blocks/chiseled_dark_prismarine_mother_of_pearl_inlay.json
 1a387d0a7fb3611bd6b1d27221b69aedf9f0c981 data/mccascade/loot_tables/blocks/chiseled_gilded_blackstone.json
@@ -44,11 +44,13 @@ bfe77d09f93f4276756ce0ea25106c4d0c81414c data/mccascade/loot_tables/blocks/shulk
 744866a750c2aa7ddaafb3090e323fcd36165d6a data/mccascade/loot_tables/blocks/shulker_shell_inlay_slab.json
 02f4199099cf6efd175471eabe3e9bde53570876 data/mccascade/loot_tables/blocks/shulker_shell_inlay_stairs.json
 b90825fe44040edbbcc27fba4bd61441d083f286 data/mccascade/loot_tables/blocks/umbral_orchid.json
+959da5a0280deca078621d33b8fc6c30be72d0cd data/mccascade/loot_tables/blocks/walnut_door.json
 04ced5c1525cdacdfe549a6c6c0dba99d20891a8 data/mccascade/loot_tables/blocks/walnut_fence.json
 1cae8b59cebb7499598987631c4da241838028b2 data/mccascade/loot_tables/blocks/walnut_fence_gate.json
 05c3baa5f149e15bf16ab5fc95ef9aea7ffbb60d data/mccascade/loot_tables/blocks/walnut_planks.json
 d89b4002a940d8f2faaedb9b18a61d5068b446b4 data/mccascade/loot_tables/blocks/walnut_slab.json
 70091702a55ed839b273866c03e5d64ce91c3185 data/mccascade/loot_tables/blocks/walnut_stairs.json
+1348dc957ef75e3ef065c08585cb0e1b37c3f47e data/mccascade/loot_tables/blocks/walnut_trapdoor.json
 9d081042574a887dc7a0680530ae71ed4600c52a data/mccascade/loot_tables/blocks/warm_mosaic_tiles.json
 e37324cf57c3bc0d1efe7e65c4e092a627c36b75 data/mccascade/loot_tables/blocks/white_clover.json
 0c340748f2192988e2f55bf0305b8f992db2d77a data/mccascade/loot_tables/blocks/zinnia.json

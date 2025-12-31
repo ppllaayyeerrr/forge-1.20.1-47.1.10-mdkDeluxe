@@ -58,6 +58,8 @@ public class ModBlockStateProvider extends BlockStateProvider {
         slabBlock(((SlabBlock) ModBlocks.WALNUT_SLAB.get()), blockTexture(ModBlocks.WALNUT_PLANKS.get()), blockTexture(ModBlocks.WALNUT_PLANKS.get()));
         fenceBlock(((FenceBlock) ModBlocks.WALNUT_FENCE.get()), blockTexture(ModBlocks.WALNUT_PLANKS.get()));
         fenceGateBlock(((FenceGateBlock) ModBlocks.WALNUT_FENCE_GATE.get()), blockTexture(ModBlocks.WALNUT_PLANKS.get()));
+        doorBlockWithRenderType(((DoorBlock) ModBlocks.WALNUT_DOOR.get()), modLoc("block/walnut_door_bottom"), modLoc("block/walnut_door_top"), "cutout");
+        trapdoorBlockWithRenderType(((TrapDoorBlock) ModBlocks.WALNUT_TRAPDOOR.get()), modLoc("block/walnut_trapdoor"), true, "cutout");
 
         blockWithItem(ModBlocks.FLAXEN_PLANKS);
         stairsBlock(((StairBlock) ModBlocks.FLAXEN_STAIRS.get()), blockTexture(ModBlocks.FLAXEN_PLANKS.get()));

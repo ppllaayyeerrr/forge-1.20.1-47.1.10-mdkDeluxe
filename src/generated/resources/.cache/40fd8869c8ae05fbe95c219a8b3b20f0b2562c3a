@@ -1,4 +1,4 @@
-// 1.20.1	2025-12-30T01:50:11.1299613	Item Models: mccascade
+// 1.20.1	2025-12-30T18:11:12.3406603	Item Models: mccascade
 3bc1b444811ec6c3841c4612f7130faa919b0ae4 assets/mccascade/models/item/columbine.json
 3bdb8af188566e924ff090451adbb5fc3806ae0b assets/mccascade/models/item/daffodil.json
 72b541e1becb22aaca9b9a5b1a632d4e086a3baf assets/mccascade/models/item/dark_prismarine_mother_of_pearl_inlay_slab.json
@@ -26,9 +26,11 @@ d4ac0ca000fa5e76115110e17e7816340dba3782 assets/mccascade/models/item/petrified_
 54bd2f7f61c414954762ce14b2744372a54d7041 assets/mccascade/models/item/shulker_shell_inlay_slab.json
 adb395af74ad95efac5f715a0024b01514fda21c assets/mccascade/models/item/shulker_shell_inlay_stairs.json
 b3d9430e7aef2a7b5fa157db271dd1ecdc7b897c assets/mccascade/models/item/umbral_orchid.json
+c6f4b607fe57f2461e4e96835a7ef5928c5125fe assets/mccascade/models/item/walnut_door.json
 1436bf0899d51aa8623e5f94442196ad635a1ec9 assets/mccascade/models/item/walnut_fence.json
 18c7ba3f2d82e0bb735f7d5cad2d6ac46a8de138 assets/mccascade/models/item/walnut_fence_gate.json
 774d827d7853a5d8a829a61240fff3838831c12a assets/mccascade/models/item/walnut_slab.json
 94933fdeb8d3dae146d436aa3a02cc3ef1fb93c0 assets/mccascade/models/item/walnut_stairs.json
+687ec91508d72a657524bed892c25d45a92650b8 assets/mccascade/models/item/walnut_trapdoor.json
 57d1fff732a7f34aa6dadb6c251fe3974fc7f134 assets/mccascade/models/item/white_clover.json
 a44164899b24516229a569799f582200afdcd76b assets/mccascade/models/item/zinnia.json

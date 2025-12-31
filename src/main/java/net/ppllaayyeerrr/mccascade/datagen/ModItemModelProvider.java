@@ -37,6 +37,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleBlockItemBlockTexture(ModBlocks.WHITE_CLOVER);
 
         simpleBlockItem(ModBlocks.FLAXEN_DOOR);
+        simpleBlockItem(ModBlocks.WALNUT_DOOR);
 
         evenSimplerBlockItem(ModBlocks.MIXED_COBBLESTONE_STAIRS);
         evenSimplerBlockItem(ModBlocks.MIXED_COBBLESTONE_SLAB);
@@ -58,6 +59,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         evenSimplerBlockItem(ModBlocks.FLAXEN_PRESSURE_PLATE);
 
         trapdoorItem(ModBlocks.FLAXEN_TRAPDOOR);
+        trapdoorItem(ModBlocks.WALNUT_TRAPDOOR);
     }
 
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {

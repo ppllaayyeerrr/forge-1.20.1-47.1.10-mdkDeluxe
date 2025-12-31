@@ -60,6 +60,8 @@ public static final RegistryObject<CreativeModeTab> CASCADE_TAB = CREATIVE_MODE_
                     output.accept(ModBlocks.WALNUT_SLAB.get());
                     output.accept(ModBlocks.WALNUT_FENCE.get());
                     output.accept(ModBlocks.WALNUT_FENCE_GATE.get());
+                    output.accept(ModBlocks.WALNUT_DOOR.get());
+                    output.accept(ModBlocks.WALNUT_TRAPDOOR.get());
 
                     output.accept(ModBlocks.FLAXEN_PLANKS.get());
                     output.accept(ModBlocks.FLAXEN_STAIRS.get());
