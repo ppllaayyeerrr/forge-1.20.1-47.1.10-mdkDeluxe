@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mccascade:chiseled_dark_prismarine_mother_of_pearl_inlay"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mccascade:blocks/chiseled_dark_prismarine_mother_of_pearl_inlay"
+}
